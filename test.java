@@ -1,1 +1,3 @@
-public claaa Demo{}
+public claaa Demo{
+	void add{}
+}
