@@ -1,3 +1,4 @@
 public claaa Demo{
-	void add{}
+	void add(){}
+	void diff(){}
 }
